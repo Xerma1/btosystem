@@ -1,4 +1,4 @@
-package btosystem.p3;
+package plane.p3;
 
 import java.util.Scanner;
 

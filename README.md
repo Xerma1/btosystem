@@ -1,4 +1,3 @@
-# OOP-Group-Project
-HDB BTO management system
+# OOP Project
+Simple plane system
 
-some text written on my local computer
